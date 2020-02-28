@@ -11,6 +11,13 @@ Brief Description of the roles played by different packages are as follows:
 
 - **Util** has all the files which makes **Database connectivity** i.e. connecting database made using SQL with **JAVA**. Making
    connection, manipulating data in database and destroying connection.
+
+**PREREQUISITES FOR RUNNING THE PROJECT**
+- Must have JDK 8 installed.
+- Netbeans version 8 compiler.
+- Must have installed all `.jar` files present in the folder.
   
-    For **more detailed explanation** do check out our presentation of our project at below given link:
-    https://docs.google.com/presentation/d/1bjAgK_b3OPuic6cmXguhMEoeaUDJ_UgVSiEDQWPzoWA/edit?usp=sharing
+[Detailed Explanation of the Project](https://docs.google.com/presentation/d/1bjAgK_b3OPuic6cmXguhMEoeaUDJ_UgVSiEDQWPzoWA/edit?usp=sharing)
+
+[Live Demo of the Project](https://www.youtube.com/watch?v=DJl4Gl_9kTM&t=9s/)
+
